@@ -35,7 +35,6 @@
 
   <!-- Frameworks & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Spring_Tools_Suite_Logo.png" alt="Spring Tool Suite" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   
