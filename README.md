@@ -25,7 +25,3 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LankalapalliMaruthi&theme=tokyonight)
-
-## 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LankalapalliMaruthi&theme=tokyo-night)
