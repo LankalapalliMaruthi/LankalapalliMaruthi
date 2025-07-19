@@ -15,3 +15,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Maruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maruthilankalapalli&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruthilankalapalli&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maruthilankalapalli&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maruthilankalapalli&theme=tokyo-night)
