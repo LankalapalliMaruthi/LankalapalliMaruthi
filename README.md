@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Maruthi Lankalapalli!
 
-<!--
-**LankalapalliMaruthi/LankalapalliMaruthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate Java Full Stack Developer from Andhra Pradesh, India.  
+🎯 Interests: Web Development | Spring Boot | REST APIs | React | SQL  
+💼 Actively looking for developer roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+- **Languages**: Java, JavaScript, Python  
+- **Frontend**: React.js, HTML, CSS  
+- **Backend**: Spring Boot, REST APIs  
+- **Database**: MySQL
+- **Tools**: Git, VS Code, Postman  
+
+---
+
