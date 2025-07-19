@@ -13,14 +13,10 @@
 - **Database**: MySQL
 - **Tools**: Git, VS Code, Postman  
 
----
-## 📊 Maruthi's GitHub Stats
-
-![Maruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LankalapalliMaruthi&show_icons=true&theme=tokyonight)
-
-## 🧑‍💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LankalapalliMaruthi&layout=compact&theme=tokyonight)
+---<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LankalapalliMaruthi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LankalapalliMaruthi&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+</div>
 
 ## 🔥 GitHub Streak
 
